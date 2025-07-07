@@ -3,7 +3,8 @@
 - **Amaç:** [Keşifsel veri analizi yapmak ve veri setini yakından tanımak]
 - **Veri Kümesi:** [Kaggle]
 - **Yaklaşım:** Veri temizliği ve analizi
-- Data-Science-Job-Salaries/
+- '''text
+  Data-Science-Job-Salaries/
    ├── archive/            # Ham ve işlenmiş veri setleri burada tutulmaktadır
    ├── Data Scientist Job Salary Keşifsel Veri Analizi.ipynb/          # Jupyter Notebook dosyaları burada olur
    ├── Data Scientist Job Salary Keşifsel Veri Analizi.pdf/            # Kodların pdf dosyasına dönüştürülmüş hali
