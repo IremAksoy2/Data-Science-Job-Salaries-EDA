@@ -3,11 +3,11 @@
 - **Amaç:** [Keşifsel veri analizi yapmak ve veri setini yakından tanımak]
 - **Veri Kümesi:** [Kaggle]
 - **Yaklaşım:** Veri temizliği ve analizi
-<pre>'''text  Data-Science-Job-Salaries/
+<pre> Data-Science-Job-Salaries/
    ├── archive/            # Ham ve işlenmiş veri setleri burada tutulmaktadır
    ├── Data Scientist Job Salary Keşifsel Veri Analizi.ipynb/          # Jupyter Notebook dosyaları burada olur
    ├── Data Scientist Job Salary Keşifsel Veri Analizi.pdf/            # Kodların pdf dosyasına dönüştürülmüş hali
-   └── README.md           # Proje tanıtım dosyası (bu dosya) '''</pre>  
+   └── README.md           # Proje tanıtım dosyası (bu dosya) </pre>  
 - jupyter notebook notebooks/Data Scientist Job Salary Keşifsel Veri Analizi.ipynb.ipynb
 - **Gereksinimler**pandas,numpy,scikit-learn,matplotlib,seaborn,jupyter notebook
 - **Sonuç** Veri seti üzerinde analiz yapılıp çıkan sonuçlar doğrultusunda çıkarımlarda bulunulmuştur.
